@@ -1,0 +1,3 @@
+OOP, A, 50, 40, Pismeni, 20
+Fizika, B, 50 , 60, kolokvijum, 50, 20, kolokvijum, 50, 20
+IspitX, C, 50, 50, element1, 1, element2, 2, 2, element3, 3, element4, 4, 4

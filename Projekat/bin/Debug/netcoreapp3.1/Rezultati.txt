@@ -1,0 +1,14 @@
+Student: 1234 je polozio OO Projektovanje i ima 73 poena. Ocena: 8
+Student: 2345 je polozio Geodezija i ima 72 poena. Ocena: 8
+Student: 34567 je polozio Istorija starog veka i ima 88 poena. Ocena: 9
+Student: 45678 je pao Farmakologija i ima 64 poena.
+Student: 56789 je polozio MMS i ima 100 poena. Ocena: 10
+Student: 6789 je polozio Rimsko pravo i ima 99 poena. Ocena: 10
+
+Student: 1234 je polozio OO Projektovanje i ima 73 poena. Ocena: 8
+Student: 2345 je polozio Geodezija i ima 72 poena. Ocena: 8
+Student: 34567 je polozio Istorija starog veka i ima 88 poena. Ocena: 9
+Student: 45678 je pao Farmakologija i ima 64 poena.
+Student: 56789 je polozio MMS i ima 100 poena. Ocena: 10
+Student: 6789 je polozio Rimsko pravo i ima 99 poena. Ocena: 10
+

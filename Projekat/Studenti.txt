@@ -1,0 +1,46 @@
+1234
+OO Projektovanje
+31		
+Pismeni
+26
+Lab
+16
+2345
+Geodezija
+29
+Projekat a 
+7
+Projekat b
+8
+Lab
+11
+Terenski zadatak
+17
+34567
+Istorija starog veka
+77
+Istrazivanje
+11
+45678
+Farmakologija
+20
+Test A
+11
+Test B
+22
+Lab 1
+0
+Lab 2
+4
+Lab 3
+7
+56789
+MMS
+40
+SW projekat
+30
+MM projekat
+30
+6789
+Rimsko pravo
+99
